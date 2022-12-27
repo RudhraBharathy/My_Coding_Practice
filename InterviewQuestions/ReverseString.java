@@ -1,4 +1,4 @@
-package com.InterviewQuestions;
+package com.My_Coding_Practice.InterviewQuestions;
 public class ReverseString {
     public static void main(String[] args) {
         String str = "rudhra";

@@ -1,4 +1,4 @@
-package com.InterviewQuestions;
+package com.My_Coding_Practice.InterviewQuestions;
 
 import java.util.Scanner;
 

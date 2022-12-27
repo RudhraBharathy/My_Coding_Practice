@@ -1,4 +1,4 @@
-package com.InterviewQuestions;
+package com.My_Coding_Practice.InterviewQuestions;
 
 public class Swappingnumbers {
     public static void main(String[] args) {
