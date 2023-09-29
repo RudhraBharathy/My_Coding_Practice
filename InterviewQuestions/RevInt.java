@@ -7,10 +7,9 @@ public class RevInt {
         int temp;
         while(val>0){
             temp = val%10;
-            y  = (y + temp) * 10;
+            y  = y * 10 + temp;
             val = val/10;
         }
-        y /= 10;
         System.out.println(y);
     }
 }
